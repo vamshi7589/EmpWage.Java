@@ -9,4 +9,4 @@ public class EmployeeWage{
 		else
 			System.out.println("Employee absent");
 	}
-}
+}}
